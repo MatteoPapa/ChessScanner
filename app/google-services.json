@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "225230325436",
+    "project_id": "chess-scanner-9bded",
+    "storage_bucket": "chess-scanner-9bded.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225230325436:android:805ed3c2493f62f7fab2b9",
+        "android_client_info": {
+          "package_name": "com.tutorials.chessscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225230325436-26vg5ovurpm1cdld8u2o7226h9t68ib7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tutorials.chessscanner",
+            "certificate_hash": "63bba2d9f60b74147ea59d38fe27d6bd51e267e8"
+          }
+        },
+        {
+          "client_id": "225230325436-fqpe7p4ua9fuuilf4fa5f6jrij0r1uuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FTCboSeOaR9G6IVDS8qDX8m66K-YtX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225230325436-fqpe7p4ua9fuuilf4fa5f6jrij0r1uuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
